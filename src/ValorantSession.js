@@ -55,8 +55,8 @@ const ValorantSession = () => {
 
       <div className="details rsvp">
         <h3>RSVP Details</h3>
-        <p>Please confirm by <span className="highlight">26th April</span></p>
-        <p>Valorant ID: <span className="highlight">mintcat#AP</span></p>
+        <p>Please confirm by <span className="highlight">28th April</span></p>
+        <p>Valorant ID: <span className="highlight">mintcatt</span></p>
         <p>Bring your A-game and Chodi nahi</p>
       </div>
 
